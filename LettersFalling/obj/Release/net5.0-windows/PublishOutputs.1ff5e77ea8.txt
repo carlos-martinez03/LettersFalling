@@ -1,0 +1,5 @@
+C:\Temp\LettersFalling.exe
+C:\Temp\LettersFalling.dll
+C:\Temp\LettersFalling.deps.json
+C:\Temp\LettersFalling.runtimeconfig.json
+C:\Temp\LettersFalling.pdb

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LettersFalling", "LettersFalling\LettersFalling.csproj", "{155C7937-D801-4471-B859-105BD76B00C9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{3E134392-2F8E-4DA4-9954-4F704CC96D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155C7937-D801-4471-B859-105BD76B00C9}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{155C7937-D801-4471-B859-105BD76B00C9}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{155C7937-D801-4471-B859-105BD76B00C9}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{155C7937-D801-4471-B859-105BD76B00C9}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{155C7937-D801-4471-B859-105BD76B00C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155C7937-D801-4471-B859-105BD76B00C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E134392-2F8E-4DA4-9954-4F704CC96D52}.Debug|Any CPU.ActiveCfg = Release
+		{3E134392-2F8E-4DA4-9954-4F704CC96D52}.Debug|Any CPU.Build.0 = Release
+		{3E134392-2F8E-4DA4-9954-4F704CC96D52}.DefaultBuild|Any CPU.ActiveCfg = Debug
+		{3E134392-2F8E-4DA4-9954-4F704CC96D52}.DefaultBuild|Any CPU.Build.0 = Debug
+		{3E134392-2F8E-4DA4-9954-4F704CC96D52}.Release|Any CPU.ActiveCfg = Release
+		{3E134392-2F8E-4DA4-9954-4F704CC96D52}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5AC0C87-C0F5-41BB-A8D4-FC02AE06FC9F}
+	EndGlobalSection
+EndGlobal

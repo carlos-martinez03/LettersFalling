@@ -1,0 +1,11 @@
+C:\Temp\LettersFalling.pdb
+C:\Temp\clrcompression.dll
+C:\Temp\clrjit.dll
+C:\Temp\coreclr.dll
+C:\Temp\mscordaccore.dll
+C:\Temp\D3DCompiler_47_cor3.dll
+C:\Temp\PenImc_cor3.dll
+C:\Temp\PresentationNative_cor3.dll
+C:\Temp\vcruntime140_cor3.dll
+C:\Temp\wpfgfx_cor3.dll
+C:\Temp\LettersFalling.exe

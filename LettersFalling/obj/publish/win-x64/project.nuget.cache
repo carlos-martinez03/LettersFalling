@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RA1dNbdY7cn110AuK+P3KTSNyiayvmaa0vUazLrq8I5hssWpv/TkP3VHQsHBlmxzt8Qd6Hwcr6uVDCEjOrIhng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmartinez\\Documents\\PERSONAL\\Prog\\C#\\LettersFalling\\LettersFalling\\LettersFalling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmartinez\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.6\\microsoft.netcore.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\cmartinez\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\cmartinez\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.6\\microsoft.aspnetcore.app.runtime.win-x64.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
